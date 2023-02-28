@@ -1,0 +1,47 @@
+.div_speed{
+    float:left;
+
+}
+.div_speed_img{
+    width:170px;
+    border-radius:100%;
+}
+.div_vol{
+    float:right;
+}
+.div_vol_img{
+    width:170px;
+    border-radius:100%;
+}
+body{
+    background-size: cover;
+}
+
+.heading{
+    font-family: 'Nabla', cursive;
+    font-size:30px;
+    color:darkblue;
+}
+.note{
+    font-size: 15px;
+    font-family:monospace;
+    font-weight: bold;
+
+}
+#speed,#volume{
+    font-size: 20px;
+    font-family: monospace;
+    font-weight: bold;
+}
+
+canvas{
+    margin-top:70px;
+    border-radius:20px;
+    border: 2px white solid;
+}
+
+.play{
+    width:200px;
+    font-size:20px;
+    font-family: monospace;
+}
